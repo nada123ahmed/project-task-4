@@ -1,0 +1,20 @@
+ .header {
+    text-align: center;
+   
+}
+
+.header h2 {
+    color: #666;
+    margin-bottom:-5px;
+}
+
+.header h1 {
+    color: #333;
+}
+
+.header p {
+    color: #999;
+    margin-bottom: 50px;
+} 
+
+   
